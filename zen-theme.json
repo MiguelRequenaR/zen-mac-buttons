@@ -6,5 +6,6 @@
   "tags": ["titlebar", "mac", "buttons"],
   "homepage": "https://github.com/MiguelRequenaR/zen-mac-buttons",
   "readme": "README.md",
+  "images": "image.png",
   "preferences": []
 }
