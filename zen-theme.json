@@ -1,0 +1,9 @@
+{
+  "name": "Zen Mac Buttons",
+  "description": "Mac-style titlebar buttons for Zen Browser.",
+  "version": "1.0.0",
+  "author": "MiguelRequenaR",
+  "tags": ["titlebar", "mac", "buttons"],
+  "readme": "README.md",
+  "preferences": []
+}
