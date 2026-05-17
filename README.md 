@@ -1,0 +1,22 @@
+# Zen Mac Buttons
+
+Mac-style titlebar buttons (close, minimize, maximize) for Zen Browser.
+
+## Preview
+
+
+## Installation
+
+### Via Zen Mods (recommended)
+Search for "Zen Mac Buttons" in `about:addons` inside Zen Browser.
+
+### Manual
+1. Go to `about:config` and enable `toolkit.legacyUserProfileCustomizations.stylesheets`
+2. Find your profile folder at `about:profiles`
+3. Create a `chrome/` folder inside it
+4. Add a `userChrome.css` with: `@import "theme.css";`
+5. Copy `theme.css` into the `chrome/` folder
+6. Restart Zen Browser
+
+## Compatibility
+Tested on Zen Browser 1.x — Windows, macOS, Linux

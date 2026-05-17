@@ -5,7 +5,7 @@
   border-radius: 50%;
   padding: 0;
   margin: auto 4px;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.15);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -48,3 +48,8 @@
 .titlebar-max .toolbarbutton-icon {
   list-style-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.4 85.4"><path fill="%232a6218" d="m31.2 20.8h26.7c3.6 0 6.5 2.9 6.5 6.5v26.7zm23.2 43.7h-26.8c-3.6 0-6.5-2.9-6.5-6.5v-26.8z"/></svg>');
 }
+
+.titlebar-close:active { background-color: #e04b49; }
+.titlebar-minimize:active { background-color: #e0a835; }
+.titlebar-restore:active,
+.titlebar-max:active { background-color: #20a832; }
